@@ -6,13 +6,13 @@ Submit your pull request here for Hacktoberfest-2020 , after adding your script 
 
 ## Getting Started
 
-* Add your name to the CONTRIBUTORS.md file using following model
+ ### Add your name to the CONTRIBUTORS.md file using following model
 
-Name: [YOUR NAME](Github Link)
+  Name: [YOUR NAME](Github Link)
 
-Place: city you belong to
+  Place: city you belong to
 
-About: Short Intro (Optional)
+  About: Short Intro (Optional)
 
 ## Instructions:
 
