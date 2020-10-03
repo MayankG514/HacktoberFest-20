@@ -2,7 +2,7 @@
 <img src="https://github.com/bajajvinamr/HacktoberFest2020/raw/master/0.png" width="500" height="300">
 
 ## How to contribute
-Submit your pull request here for Hacktoberfest-2020 , after script add your name and GitHub profile into Contributors.md file.
+Submit your pull request here for Hacktoberfest-2020 , after adding your script add your name and GitHub profile into Contributors.md file.
 
 ## Getting Started
 
@@ -28,4 +28,8 @@ Click on "Start Hacking" and add your GitHub account.
 ###### You can star and fork this repository on GitHub by navigating at the top of this repository.
 
 GitHub repository URLs will reference both the username associated with the owner of the repository, as well as the repository name. For example, acmbvp is the owner of the Hacktoberfest repository, so the GitHub URL for this project is:
+
+## https://github.com/MayankG514/Hacktoberfest-20
+
+# Happy Hacking :)
 
