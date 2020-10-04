@@ -4,7 +4,7 @@ About: Student <br/>
 <br/>
 Name: [Smriti Rout](https://github.com/smriti2311)<br/>
 Place: Uttar Pradesh<br/>
-About: Student <br/>
+About: Student <br/><br/>
 Name: [Nilesh Singh](https://github.com/nileshsingh9495)<br/>
 Place: Mumbai<br/>
-About: Tech Learner <br/>
+About: Tech Learner <br/><br/>
