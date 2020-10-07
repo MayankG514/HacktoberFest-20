@@ -9,3 +9,5 @@ About: Student <br/>
 Name: [Nilesh Singh](https://github.com/nileshsingh9495)<br/>
 Place: Mumbai<br/>
 About: Student <br/>
+Name : [Sash Gupta](https://github.com/sashy1212)<br/>
+Place: India<br/>
