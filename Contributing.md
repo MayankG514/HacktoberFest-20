@@ -11,3 +11,6 @@ Place: Mumbai<br/>
 About: Student <br/>
 Name : [Sash Gupta](https://github.com/sashy1212)<br/>
 Place: India<br/>
+Name: [Raichit Singh](https://github.com/Raichu-007)<br/>
+Place: Rajasthan<br/>
+About: Student <br/>
