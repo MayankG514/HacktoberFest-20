@@ -14,3 +14,7 @@ Place: India<br/>
 Name: [Raichit Singh](https://github.com/Raichu-007)<br/>
 Place: Rajasthan<br/>
 About: Student <br/>
+<br/>
+Name: [Hansa Halim](https://github.com/hansahalim)<br/>
+Place: Waterloo, Ontario, Canada <br/>
+About: Happy Hacktoberfest 2020! <br/>
