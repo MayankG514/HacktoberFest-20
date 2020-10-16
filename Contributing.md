@@ -18,3 +18,8 @@ About: Student <br/>
 Name: [Hansa Halim](https://github.com/hansahalim)<br/>
 Place: Waterloo, Ontario, Canada <br/>
 About: Happy Hacktoberfest 2020! <br/>
+</br>
+Name: [Nishant Singh](https://github.com/GamerNishant)<br/>
+Place: Delhi<br/>
+About: Student <br/>
+</br>
