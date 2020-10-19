@@ -23,3 +23,7 @@ Name: [Nishant Singh](https://github.com/GamerNishant)<br/>
 Place: Delhi<br/>
 About: Student <br/>
 </br>
+Name:[Ishita Kanotra](https://github.com/ishitakanotra)<br/>
+place: Ghaziabad<br/>
+About: student<br/>
+</br>
