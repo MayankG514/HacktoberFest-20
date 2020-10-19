@@ -23,6 +23,10 @@ Name: [Nishant Singh](https://github.com/GamerNishant)<br/>
 Place: Delhi<br/>
 About: Student <br/>
 </br>
+Name: [Rishabh Singhal](https://github.com/rishabh-0904)<br/>
+Place: New Delhi<br/>
+About: Sophomore from DTU <br/>
+</br>
 Name:[Ishita Kanotra](https://github.com/ishitakanotra)<br/>
 place: Ghaziabad<br/>
 About: student<br/>
