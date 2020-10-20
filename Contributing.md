@@ -42,4 +42,9 @@ Name:[Aditya Mehta](https://github.com/Aditya-1904)<br/>
 place: Himachal Pradesh<br/>
 About: Sophomore from TIET<br/>
 
+
+Name:[Harshi](https://github.com/harshi19)<br/>
+place: India<br/>
+About: Student<br/>
+
 </br>
