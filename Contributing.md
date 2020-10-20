@@ -9,8 +9,10 @@ About: Student <br/>
 Name: [Nilesh Singh](https://github.com/nileshsingh9495)<br/>
 Place: Mumbai<br/>
 About: Student <br/>
+<br/>
 Name : [Sash Gupta](https://github.com/sashy1212)<br/>
 Place: India<br/>
+<br/>
 Name: [Raichit Singh](https://github.com/Raichu-007)<br/>
 Place: Rajasthan<br/>
 About: Student <br/>
@@ -30,4 +32,8 @@ About: Sophomore from DTU <br/>
 Name:[Ishita Kanotra](https://github.com/ishitakanotra)<br/>
 place: Ghaziabad<br/>
 About: student<br/>
+</br>
+Name:[Dimas Saputra](https://github.com/Dimas-Saputra-Me)<br/>
+place: Indonesia<br/>
+About: Student<br/>
 </br>
