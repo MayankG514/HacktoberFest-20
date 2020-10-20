@@ -1,4 +1,6 @@
 #include<stdio.h>
+#include<bits/stdc++.h>
+
 using namespace std;
 
 // arr - input array
