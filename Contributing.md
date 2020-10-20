@@ -31,3 +31,7 @@ Name:[Ishita Kanotra](https://github.com/ishitakanotra)<br/>
 place: Ghaziabad<br/>
 About: student<br/>
 </br>
+Name:[Aditya Mehta](https://github.com/Aditya-1904)<br/>
+place: Himachal Pradesh<br/>
+About: Sophomore from TIET<br/>
+</br>
