@@ -78,3 +78,8 @@ place: India, Delhi<br/>
 About: Student<br/>
 
 </br>
+Name:[Kriti Prajapati](https://github.com/kkritii)<br/>
+place: Kathmandu, Nepal<br/>
+About: Computer Student<br/>
+
+</br>
