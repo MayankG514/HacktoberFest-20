@@ -9,3 +9,6 @@ About: Student <br/>
 Name: [Nilesh Singh](https://github.com/nileshsingh9495)<br/>
 Place: Mumbai<br/>
 About: Student <br/>
+<br/>
+Name: [Vasu Gupta](https://github.com/vasu-gupta)<br/>
+Place: Delhi
