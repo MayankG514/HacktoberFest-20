@@ -86,3 +86,9 @@ place: Kathmandu, Nepal<br/>
 About: Computer Student<br/>
 
 </br>
+
+Name:[Akshat Sachan](https://github.com/AkshatSachan)<br/>
+place: Kanpur<br/>
+About: CSE student<br/>
+
+</br>
