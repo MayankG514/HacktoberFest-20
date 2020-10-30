@@ -1,91 +1,49 @@
-#include <bits/stdc++.h>
-
+#include<iostream>
 using namespace std;
 
-class Graph
-{
-	int V;
-	vector<int> *adj; // It is an array of Vectors And vector<vector<int>> adj(v) is a vector of vectors
-
-public:
-	
-	Graph(int V)
-	{
-		this->V = V;
-		adj = new vector<int>[V];
-	}
-	void addEdge(int u, int v);
-
-	void printArray(int v);
-
-	void dfs(int s);
-
-	void DFSUtil(int v, bool visited[]);
-};
-int main()
-{
-	cout << "Enter the number of Vertices : " << endl;
-	int v;
-	cin >> v;
-
-	Graph G(v);
-	G.addEdge(0, 1); //Since it is an Undirected graph, it enough to mention one edge//
-	G.addEdge(0, 2);
-	G.addEdge(1, 2);
-	G.addEdge(2, 0);
-	G.addEdge(2, 3);
-	G.addEdge(3, 3);
-
-	G.printArray(v);
-
-	cout << "DFS Traversal of the Graph is " << endl;
-
-	G.dfs(2);
-	
-	return 0;
+void print(int** edges, int n, int sv, bool* visited){
+  cout << sv << endl;
+  visited[sv] = true;
+  for(int i=0; i<n; i++){
+    if(i==sv){
+      continue;
+    }
+    if(edges[sv][i]==1){
+      if(visited[i]){
+        continue;
+      }
+      print(edges, n, i, visited);
+    }
+  }
 }
 
-//FUNCTION DEFINITIOINS
+int main(){
+  int n;
+  int e;
+  cin >> n >> e;
 
-void Graph::addEdge(int u, int v)
-{
-	adj[u].push_back(v);
-	//adj[v].push_back(u);
-}
+  int** edges = new int*[n];
+  for(int i=0; i<n; i++){
+    edges[i]=new int[n];
+    for(int j=0; j<n; j++){
+      edges[i][j]=0;
+    }
+  }
 
-void Graph::printArray(int v)
-{
-	for(int i = 0; i < v; i++)
-	{
-		cout << "\n Adjacency List of vertex " << i 
-			 << "\n head ";
-		for(auto x : adj[i])
-		{
-			cout << "-> " << x;
-		}
-		printf("\n");
-	}
-}
+  for(int i=0; i<e; i++){
+    int f,s;
+    cin >> f >> s;
+    edges[f][s]=1;
+    edges[s][f]=1;
+  }
 
-void Graph::dfs(int s)
-{
-	//Creating an arn array of boolean type to store the vertices which are visited
-	bool *visited = new bool[V];
-	//We are making all the vertices to false i.e., we are not visited any vertices till now
-	for(int i = 0; i < V; ++i)
-		visited[i] = false;
-	DFSUtil(s, visited);
-}
+  bool* visited = new bool[n];
 
-void Graph::DFSUtil(int v, bool visited[])
-{
-	visited[v] = true;
-	cout << v << " ";
+  for(int i=0; i<n; i++){
+    visited[i]=false;
+  }
 
-	vector<int>::iterator i;
-	for(i = adj[v].begin(); i != adj[v].end(); ++i)
-	{
-		if(!visited[*i])//i is an iterator which points to the particular element and *i gives us that element
-			DFSUtil(*i, visited);
-	}
+  print(edges, n, 0, visited);
+  // Delete all the memory
+  return 0;
 }
