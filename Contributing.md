@@ -92,3 +92,6 @@ place: Kanpur<br/>
 About: CSE student<br/>
 
 </br>
+Name:(Dharya Gangwar) (https://github.com/Dharya-dev)<br/>
+Place: Uttarakhand,Kichha<br/>
+About: Student <br/>
