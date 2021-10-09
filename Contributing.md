@@ -92,3 +92,7 @@ place: Kanpur<br/>
 About: CSE student<br/>
 
 </br>
+
+Name:[Alok Khansali](https://github.com/TheCodeAlpha26)<br/>
+place: Dehradun<br/>
+About: CSE student<br/>
